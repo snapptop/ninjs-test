@@ -1,0 +1,2 @@
+# ninjs-test
+test suite
